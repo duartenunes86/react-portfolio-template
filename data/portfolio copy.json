@@ -39,13 +39,13 @@
       "id": "3",
       "title": "Astrology App",
       "description": "App that uses astronomical calculations to tell your personality",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "imageSrc": "https://images.unsplash.com/photo-1699480186769-44af7414a5a0?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://astrology-app21.onrender.com/"
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
+      "title": "Bitcoin Price Predictor",
+      "description": "App that uses a software formula based on the analysis of bitcoin price evolution to predict the Bitcoin price for a given date",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       "url": "http://chetanverma.com/"
     },
