@@ -1,11 +1,11 @@
 ---
 date: "2022-07-08T11:50:54.000Z"
-title: "Exploring the Arcane: The Timeless Wisdom of Tarot Cards"
-tagline: "Unveil the stories hidden within the cards."
-preview: "Dive into the world of Tarot to discover how these age-old cards can provide guidance, reflection, and insight into the complexities of life."
-image: "https://images.unsplash.com/photo-1699662738437-c883a109e01f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D"
+title: "Exploring the life of Padre Pio(St. Pio of Pietrelcina)"
+tagline: "Unveil the slife of Padre Pio"
+preview: "Pio of Pietrelcina (born Francesco Forgione; 25 May 1887 – 23 September 1968), widely known as Padre Pio (Italian for 'Father Pius'), was an Italian Capuchin friar, priest, stigmatist, and mystic. He is venerated as a saint in the Catholic Church, celebrated on 23 September."
+image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Padre_Pio_portrait.jpg"
 ---
 
-# Tarot
+# Padre Pio
 
-Play the tarot cards here [Tarot](https://tarot-cards.onrender.com/)
+Know more about Padre Pio [Padre Pio](https://en.wikipedia.org/wiki/Padre_Pio)
